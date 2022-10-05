@@ -3,7 +3,7 @@
 
 
 
-# About Me 
+### About Me 
 🎩 I am James Thanni, a Software Engineer based in London who has recently graduated from Loughborough University with a BSc in Computer Science!
 
 💻 I enjoy working on personal projects and I am passionate about building meaningful projects. I hope to work on a few projects using web frameworks such as Angular, NextJS and C# frameworks such as WPF. 
@@ -14,7 +14,7 @@
 
 ☁ To further my knowledge, I utilise platforms such as LinkedIn learning, PluralSight and YouTube tutorials from amazing creators such as Traversy Media and Derek Banas. I hope to begin reading more and to delve into the world personal development as well as investing through books and online courses soon. If you have any recommendations, please do drop a message on my LinkedIn: https://www.linkedin.com/in/james-thanni
 
-# Career
+### Career
 
 - Data Engineer Intern
 - Media SIO Volunteer
@@ -22,7 +22,7 @@
 - Graduate Software Engineer (current)
 
 
-# Achievements
+### Achievements
 
 - BSc Computer Science (Hons) Degree
 - ED&I I-Accelerator Project Certificate
