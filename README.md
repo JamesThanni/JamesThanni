@@ -1,7 +1,7 @@
-### Hi there 👋
+### 👋 Hi there 
 
 
-<!--
+
 
 ##About Me 
 🎩 I am James Thanni, a Software Engineer based in London who has recently graduated from Loughborough University with a BSc in Computer Science!
@@ -29,6 +29,9 @@
 - Nuffield Research Project Certificate
 - Realising Opportunities Research Certificate
 - Jack Petchy Speakout Challenge Completion
+
+
+<!-- 
 
 Here are some ideas to get you started:
 
