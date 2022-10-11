@@ -15,7 +15,12 @@
 ☁ To further my knowledge, I utilise platforms such as LinkedIn learning, PluralSight and YouTube tutorials from amazing creators such as Traversy Media and Derek Banas. I hope to begin reading more and to delve into the world of personal development as well as investing through books and online courses soon. If you have any recommendations, please do drop a message on my LinkedIn: https://www.linkedin.com/in/james-thanni
 
 
+### Projects
 
+- React Native Furniture Store developed with Expo Multiplatform Development (Under improvement)
+- NextJS Personal Website with Markdown Blog (Under Development)
+- Laravel Helpdesk Website
+- Python Popularity Dataset Generator (Under improvement)
 
 ### Career
 
