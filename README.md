@@ -18,7 +18,7 @@
 ### Projects
 
 - NextJS Personal Website with Markdown Blog (Under Development)
-- React Native Furniture Store developed with Expo Multiplatform Development (Under Improvement)
+- Expo React Native Furniture Product Visualisation App (Under Improvement)
 - NextJS Career Programme Website (Restricted Access)
 - Android (Java) Seat Reservation Application (Completed)
 - Laravel Helpdesk Group Project Website (Completed)
