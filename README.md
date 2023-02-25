@@ -17,11 +17,14 @@
 
 ### Projects
 
-- React Native Furniture Store developed with Expo Multiplatform Development (Under improvement)
 - NextJS Personal Website with Markdown Blog (Under Development)
-- Laravel Helpdesk Website
-- Python Popularity Dataset Generator (Under improvement)
+- React Native Furniture Store developed with Expo Multiplatform Development (Under Improvement)
 - NextJS Career Programme Website (Restricted Access)
+- Android (Java) Seat Reservation Application (Completed)
+- Laravel Helpdesk Group Project Website (Completed)
+- Java Computer Shop Application (Completed)
+- Python Library System Application (Completed)
+- Python Data Collection Application (Restricted Access)
 
 ### Career
 
