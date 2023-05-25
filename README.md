@@ -17,14 +17,14 @@
 
 ### Projects
 
-- NextJS Personal Website with Markdown Blog (Under Development)
+- NextJS Personal Website with Markdown Blog (Completed)
 - Android (Expo React Native) Furniture Visualisation App (Under Improvement)
-- NextJS Career Programme Website (Restricted Access)
+- NextJS Career Programme Website (Private)
 - Android (Java) Seat Reservation Application (Completed)
 - Laravel Helpdesk Group Project Website (Completed)
 - Java Computer Shop Application (Completed)
 - Python Library System Application (Completed)
-- Python Data Collection Application (Restricted Access)
+- Python Data Collection Application (Private)
 
 ### Career
 
