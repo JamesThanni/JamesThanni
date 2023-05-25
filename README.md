@@ -8,7 +8,7 @@
 
 💻 I enjoy working on personal projects and I am passionate about building meaningful projects. I hope to work on a few projects using web frameworks such as Angular, NextJS and C# frameworks such as WPF. 
 
-🧠 I’m currently learning Angular, C# and MongoDB! I am experienced with the LAMP stack, HTML, CSS, SASS, JS, SQL, MySQL and Python.
+🧠 I’m currently learning Angular, C# and MongoDB! I am experienced with the LAMP stack, HTML, CSS, SASS, JS, TS, SQL, MySQL and Python.
 
 ⌚ Outside of work my main hobbies lie in fitness and tech, where I constantly push myself to be on top of the latest developments in the tech world and to lead a healthy lifestyle!
 
