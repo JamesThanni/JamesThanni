@@ -16,8 +16,7 @@ I build and design websites, desktop and mobile applications! My career journey 
 
 🧠 Learning Angular, React, C# and MongoDB! I am experienced with the LAMP stack, HTML, CSS, SASS, JS, TS, SQL, MySQL and Python.
 
-☁ To further my knowledge, I utilise platforms such as LinkedIn learning, PluralSight and YouTube tutorials from amazing creators such as Traversy Media and Derek Banas. I hope to begin reading more and to delve into the world of personal development as well as investing through books and online courses soon. If you have any recommendations, please do drop a message on my LinkedIn: https://www.linkedin.com/in/james-thanni
-
+☁ To further my knowledge, I utilise platforms such as LinkedIn learning, PluralSight and YouTube tutorials from amazing creators such as Traversy Media and Derek Banas. I hope to begin reading more and to delve into the world of personal development as well as investing through books and online courses soon.
 
 ### Projects
 
