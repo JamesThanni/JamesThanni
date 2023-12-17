@@ -4,13 +4,17 @@
 
 
 ### About Me 
-🎩 I am James Thanni, a Software Engineer based in London who has recently graduated from Loughborough University with a BSc in Computer Science!
+I build and design websites, desktop and mobile applications! My career journey involved:
 
-💻 I enjoy working on personal projects and I am passionate about building meaningful projects. I hope to work on a few projects using web frameworks such as Angular, NextJS and C# frameworks such as WPF. 
+🔎 Using my ambition to change people's lives with technology to start my career journey in tech at 16, shadowing Data Analysts at Inalytics.
 
-🧠 I’m currently learning Angular, C# and MongoDB! I am experienced with the LAMP stack, HTML, CSS, SASS, JS, TS, SQL, MySQL and Python.
+🎩 Becoming a Software Engineer in London with a BSc in Computer Science!
 
-⌚ Outside of work my main hobbies lie in fitness and tech, where I constantly push myself to be on top of the latest developments in the tech world and to lead a healthy lifestyle!
+💻 Working on and developing a passion for building meaningful projects.
+
+⌚ Maintaining various hobbies outside of my career, mainly fitness, graphics design and keeping up with tech trends!
+
+🧠 Learning Angular, React, C# and MongoDB! I am experienced with the LAMP stack, HTML, CSS, SASS, JS, TS, SQL, MySQL and Python.
 
 ☁ To further my knowledge, I utilise platforms such as LinkedIn learning, PluralSight and YouTube tutorials from amazing creators such as Traversy Media and Derek Banas. I hope to begin reading more and to delve into the world of personal development as well as investing through books and online courses soon. If you have any recommendations, please do drop a message on my LinkedIn: https://www.linkedin.com/in/james-thanni
 
