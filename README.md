@@ -20,6 +20,7 @@ I build and design websites, desktop and mobile applications! My career journey 
 
 ### Projects
 
+- Technical Queries Chatbot (Completed)
 - NextJS Personal Website with Markdown Blog (Completed)
 - Android (Expo React Native) Furniture Visualisation App (Under Improvement)
 - NextJS Career Programme Website (Private)
