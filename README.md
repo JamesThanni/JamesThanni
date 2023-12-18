@@ -14,7 +14,7 @@ I build and design websites, desktop and mobile applications! My career journey 
 
 ⌚ Maintaining various hobbies outside of my career, mainly fitness, graphics design and keeping up with tech trends!
 
-🧠 Learning Angular, React, C# and MongoDB! I am experienced with the LAMP stack, HTML, CSS, SASS, JS, TS, SQL, MySQL and Python.
+🧠 Learning and working with Angular, React, C# and MongoDB! I am experienced with web development languages alongside  SASS, TS, MySQL and Python.
 
 ☁ To further my knowledge, I utilise platforms such as LinkedIn learning, PluralSight and YouTube tutorials from amazing creators such as Traversy Media and Derek Banas. I hope to begin reading more and to delve into the world of personal development as well as investing through books and online courses soon.
 
