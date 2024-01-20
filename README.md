@@ -24,7 +24,7 @@ I build and design websites, desktop and mobile applications! My career journey 
 - NextJS Personal Website with Markdown Blog (Completed)
 - Android (Expo React Native) Furniture Visualisation App (Under Improvement)
 - NextJS Career Programme Website (Completed - Private Internship Project)
-- Android (Java) Seat Reservation Application (Completed)
+- Android (Java) Seat Reservation Application (Under Improvement)
 - Laravel Helpdesk Group Project Website (Completed)
 - Java Computer Shop Application (Completed)
 - Python Library System Application (Completed)
