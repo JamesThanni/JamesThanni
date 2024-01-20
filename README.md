@@ -6,7 +6,7 @@
 ### About Me 
 I build and design websites, desktop and mobile applications! My career journey involved:
 
-🔎 Using my ambition to change people's lives with technology to start my career journey in tech at 16, shadowing Data Analysts at Inalytics.
+🔎 Using my ambition to change people's lives with technology to start my career journey early!
 
 🎩 Becoming a Software Engineer in London with a BSc in Computer Science!
 
