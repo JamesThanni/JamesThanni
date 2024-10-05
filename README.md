@@ -22,21 +22,14 @@ I build and design websites, desktop and mobile applications! My career journey 
 - NextJS Personal Website with Markdown Blog
 - Android (Expo React Native) Furniture Visualisation App
 - NextJS Career Programme Website
-- Android (Java) Seat Reservation Application
-- Laravel Helpdesk Group Project Website
-- Java Computer Shop Application
-- Python Library System Application
-- Python Data Collection Application
 
 ### Career
 
-- Data Engineer Intern
-- Media SIO Volunteer
-- UIUX Intern
+- Data Engineer Intern @ NIESR
+- Media SIO Volunteer @ Loughborough University
+- UIUX Intern @ FDM Group
 - Graduate Software Engineer (current)
-
-
-
+- Junior Software Engineer @ MMB Darwin
 
 
 ### Achievements
