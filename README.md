@@ -20,7 +20,7 @@ I build and design web, desktop and mobile applications! My career journey invol
 
 - Technical Queries Chatbot
 - NextJS Personal Website with Markdown Blog
-- Android (Expo React Native) Furniture Visualisation App
+- Expo React Native Furniture Visualisation App
 - NextJS Career Programme Website
 
 ### Career
