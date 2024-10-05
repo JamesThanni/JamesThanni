@@ -1,8 +1,6 @@
 # 👋 Hi there 
 
 
-
-
 ### About Me 
 I build and design websites, desktop and mobile applications! My career journey involved:
 
@@ -20,15 +18,15 @@ I build and design websites, desktop and mobile applications! My career journey 
 
 ### Projects
 
-- Technical Queries Chatbot (Completed - Private Work Project)
-- NextJS Personal Website with Markdown Blog (Completed)
-- Android (Expo React Native) Furniture Visualisation App (Under Improvement)
-- NextJS Career Programme Website (Completed - Private Internship Project)
-- Android (Java) Seat Reservation Application (Closed)
-- Laravel Helpdesk Group Project Website (Completed)
-- Java Computer Shop Application (Completed)
-- Python Library System Application (Completed)
-- Python Data Collection Application (Completed - Private Internship Project)
+- Technical Queries Chatbot
+- NextJS Personal Website with Markdown Blog
+- Android (Expo React Native) Furniture Visualisation App
+- NextJS Career Programme Website
+- Android (Java) Seat Reservation Application
+- Laravel Helpdesk Group Project Website
+- Java Computer Shop Application
+- Python Library System Application
+- Python Data Collection Application
 
 ### Career
 
