@@ -28,7 +28,7 @@ I build and design web, desktop and mobile applications! My career journey invol
 - Data Engineer Intern @ NIESR
 - Media SIO Volunteer @ Loughborough University
 - UIUX Intern @ FDM Group
-- Graduate Software Engineer (current)
+- Graduate Software Engineer @ MMB Darwin
 - Junior Software Engineer @ MMB Darwin
 
 
