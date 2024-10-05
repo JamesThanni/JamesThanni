@@ -4,17 +4,17 @@
 ### About Me 
 I build and design web, desktop and mobile applications! My career journey involved:
 
-🔎 Using my ambition to change people's lives with technology to start my career journey early!
+🔎 Using my passion for technology to start my career journey early!
 
 🎩 Becoming a Software Engineer in London with a BSc in Computer Science!
 
-💻 Working on and developing a passion for building meaningful projects.
+💻 Working on and developing my ability to build meaningful projects.
 
-⌚ Maintaining various hobbies outside of my career, mainly fitness, graphics design and keeping up with tech trends!
+⌚ Maintaining various hobbies outside of my career, mainly weightlifting, Graphics & UX design and keeping up with tech trends!
 
-☁ To further my knowledge, I utilise platforms such as LinkedIn learning, PluralSight and YouTube tutorials from amazing creators such as Traversy Media and Derek Banas. 
+☁ To further my knowledge, I'm always learning through my utilisation of platforms such as LinkedIn learning, PluralSight and YouTube.
 
-📖 I hope to begin reading more and to delve into the world of personal development as well as investing through books and online courses soon.
+📖 I have begun reading more and will delve into the world of personal development and investing through books and online courses.
 
 ### Projects
 
