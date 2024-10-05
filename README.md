@@ -2,7 +2,7 @@
 
 
 ### About Me 
-I build and design websites, desktop and mobile applications! My career journey involved:
+I build and design web, desktop and mobile applications! My career journey involved:
 
 🔎 Using my ambition to change people's lives with technology to start my career journey early!
 
