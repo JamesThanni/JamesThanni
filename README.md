@@ -18,8 +18,8 @@ I build and design web, desktop and mobile applications! My career journey invol
 
 ### Projects
 
-- CMS Translation Tool
-- Technical Queries Chatbot
+- AI CMS Translation Tool
+- AI Technical Queries Chatbot
 - VDA - Furniture Visualisation Mobile App
 - Memory - Arduino Mini Game Project
 - MIAH - IT Helpdesk Site
