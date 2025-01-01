@@ -18,10 +18,12 @@ I build and design web, desktop and mobile applications! My career journey invol
 
 ### Projects
 
+- CMS Translation Tool
 - Technical Queries Chatbot
-- NextJS Personal Website with Markdown Blog
-- Expo React Native Furniture Visualisation App
-- NextJS Career Programme Website
+- VDA - Furniture Visualisation Mobile App
+- Memory - Arduino Mini Game Project
+- Helpdesk - IT Ticketing System
+- CAS - E-Commerce Desktop App
 
 ### Career
 
