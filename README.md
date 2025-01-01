@@ -22,7 +22,7 @@ I build and design web, desktop and mobile applications! My career journey invol
 - Technical Queries Chatbot
 - VDA - Furniture Visualisation Mobile App
 - Memory - Arduino Mini Game Project
-- Helpdesk - IT Ticketing System
+- MIAH - IT Helpdesk Site
 - CAS - E-Commerce Desktop App
 
 ### Career
