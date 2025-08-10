@@ -1,7 +1,8 @@
-# 👋 Hi there 
 
+# About Me 
 
-### About Me 
+### Hi there! 
+
 I build and design web, desktop and mobile applications! My career journey involved:
 
 🎩 Becoming a Software Engineer in London with a BSc in Computer Science!
