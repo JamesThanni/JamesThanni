@@ -4,8 +4,6 @@
 ### About Me 
 I build and design web, desktop and mobile applications! My career journey involved:
 
-🔎 Using my passion for technology to start my career journey early!
-
 🎩 Becoming a Software Engineer in London with a BSc in Computer Science!
 
 💻 Working on and developing my ability to build meaningful projects.
