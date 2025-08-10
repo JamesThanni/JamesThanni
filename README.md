@@ -12,7 +12,7 @@ I build and design web, desktop and mobile applications! My career journey invol
 
 💻 Working on and developing my ability to build meaningful projects.
 
-⌚ Maintaining various hobbies outside of my career, mainly weightlifting, Graphics & UX design and keeping up with tech trends!
+⌚ Maintaining various hobbies outside of my career, mainly weightlifting, graphics & UX design and keeping up with tech trends!
 
 ☁ To further my knowledge, I'm always learning through my utilisation of platforms such as LinkedIn learning, PluralSight and YouTube.
 
