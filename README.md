@@ -12,7 +12,6 @@ I build and design web, desktop and mobile applications! My career journey invol
 
 ☁ To further my knowledge, I'm always learning through my utilisation of platforms such as LinkedIn learning, PluralSight and YouTube.
 
-📖 I have begun reading more and will delve into the world of personal development and investing through books and online courses.
 
 ### Projects
 
