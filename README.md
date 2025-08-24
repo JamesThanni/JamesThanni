@@ -26,12 +26,12 @@
 
 ### Projects
 
-- AI CMS Translation Feature
-- AI Technical Queries Chatbot
-- VDA - Furniture Visualisation Mobile App
-- Memory - Arduino Mini Game Project
-- MIAH - IT Helpdesk Site
-- CAS - E-Commerce Desktop App
+- Text Content Management System Translation AI Feature
+- Technical Queries AI Chatbot
+- Furniture Visualisation Mobile App
+- Arduino Mini Game Project
+- IT Helpdesk Site
+- E-Commerce Desktop App
 
 
 ### Achievements
