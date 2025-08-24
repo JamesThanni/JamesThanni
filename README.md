@@ -25,8 +25,9 @@
 
 
 ### Projects
-
-- Text Content Management System Translation AI Feature
+- Outfit Stylist AI Mobile Application (coming soon)
+- Expense Tracker AI Mobile Application (coming soon)
+- Text Content Management System AI Translation Feature
 - Technical Queries AI Chatbot
 - Furniture Visualisation Mobile App
 - Arduino Mini Game Project
