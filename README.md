@@ -8,8 +8,6 @@
 
 🛠️ I build and design web, desktop and mobile applications
 
-💻 I work on learning and developing meaningful projects.
-
 ⌚ I maintain various hobbies outside of my career, mainly photography, graphics & UX design and keeping up with tech trends!
 
 ### Career
