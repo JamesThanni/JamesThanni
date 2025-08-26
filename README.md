@@ -12,9 +12,6 @@
 
 ⌚ I maintain various hobbies outside of my career, mainly photography, graphics & UX design and keeping up with tech trends!
 
-☁ To further my knowledge, I'm always learning through my utilisation of platforms such as LinkedIn learning, PluralSight and YouTube.
-
-
 ### Career
 
 - Software Engineer @ MMB Darwin (currently)
