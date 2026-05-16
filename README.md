@@ -20,10 +20,9 @@
 
 
 ### Projects
-- Outfit Stylist AI Mobile Application (coming soon)
-- Expense Tracker AI Mobile Application (coming soon)
-- Content Management System AI Translation Feature
-- Technical Queries AI Chatbot
+- AI Expense Tracker Mobile Application (coming soon)
+- AI I18N Feature for Content Management System  
+- AI Chatbot feature for Domain Knowledge
 - Furniture Visualisation Mobile App
 - Arduino Mini Game Project
 - IT Helpdesk Site
