@@ -6,9 +6,9 @@
 
 ### About Me 
 
-🛠️ I build and design web, desktop and mobile applications
-
-⌚ I maintain various hobbies outside of my career, mainly photography, graphics & UX design and keeping up with tech trends!
+🛠️ I build websites, desktop and mobile applications!
+📷 I love technology, photography, fitness and design!
+💬 Feel free to reach out if you have any questions!
 
 ### Career
 
