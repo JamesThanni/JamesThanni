@@ -7,8 +7,11 @@
 ### About Me 
 
 🛠️ I build websites, desktop and mobile applications!
+
 📷 I love technology, photography, fitness and design!
+
 💬 Feel free to reach out if you have any questions!
+
 
 ### Career
 
