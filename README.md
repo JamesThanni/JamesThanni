@@ -24,8 +24,8 @@
 - AI I18N Feature for Content Management System  
 - AI Chatbot feature for Domain Knowledge
 - Furniture Visualisation Mobile App
-- Arduino Mini Game Project
-- IT Helpdesk Site
+- Memory Game Arduino Script
+- Helpdesk Website
 - E-Commerce Desktop App
 
 
