@@ -20,8 +20,8 @@
 
 
 ### Projects
-- AI Budgeting Mobile Application (coming soon)
-- AI I18N Feature for a Content Management System  
+- AI Expense Tracker Mobile Application (coming soon)
+- AI I18N Feature for Content Management System  
 - AI Chatbot feature for Domain Knowledge
 - Furniture Visualisation Mobile App
 - Memory Game Arduino Script
